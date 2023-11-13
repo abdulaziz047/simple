@@ -1,0 +1,28 @@
+#brain{
+  background-image:  url(https://mma.metaratings.ru/storage/images/e9/30/e93050bc1c44710fa04cc0177536f555.jpg);
+  background-size:  cover;  
+  background-repeat:  no-repeat;  
+  width:  100%;
+  height:   100vh;
+}
+nav{
+  position:   fixed;  
+  top:  0;
+  bottom:   0;
+  left:   0;
+  right:  0;
+}
+ul{
+  display:  flex; 
+  justify-content:  center; 
+  align-items:  center; 
+}
+li{
+  padding:  20px;
+  list-style:   none; 
+  font-size:  20px;
+}
+a{
+  color:  #fff;
+  text-decoration:  none; 
+}
